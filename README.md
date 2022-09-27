@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VincentSamuelPaul
-- 👀 I’m interested in Web Dev, Youtube, Blockchain and AI
-- 🌱 I’m currently learning React, Redux, API Development, DBMS
+- 👀 I’m interested in Web Dev, Video Editing, Blockchain and AI
+- 👨‍💻 I'm fluent in Python, JavaScript, HTML/CSS, SQL
+- 🌱 I’m currently learning React and Solidity
 - 📫 Reach me through email: vincentsamuelpaul@gmail.com
 
 <!---

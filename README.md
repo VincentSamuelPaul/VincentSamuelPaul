@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <h4 style="text-align: center;" align="center">It's not about the language or the framework,<br>magic is in my hands.</h4>
+  <h4 style="text-align: center;" align="center">It's not about the language or the framework,<br>magic is in my fingertips.</h4>
   <h5 style="text-align: center;" align="center">- Vincent Paul</h5>
 </p>
 

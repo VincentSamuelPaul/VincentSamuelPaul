@@ -25,7 +25,7 @@
 
 | Languages | Frameworks | Databases | DevOps | OS |
 | --------- | ---------- | --------- | ------ | -- |
-| <img src="https://skillicons.dev/icons?i=javascript,html,css,python,go,bash,c&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,kali&perline=3"/> |
+| <img src="https://skillicons.dev/icons?i=go,javascript,python,html,css,bash,c&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,kali&perline=3"/> |
 
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>

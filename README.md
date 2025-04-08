@@ -9,7 +9,7 @@
 </a>
 -->
 
-<p align="justify">A Passionate Full-Stack Web Developer, who loves turning ideas into scalable, efficient, and robust solutions.<br><br>Let's connect and explore the endless vast possibilities of development! 🚀✨
+<p align="justify">A Passionate Full-Stack Web Developer, and GOlang NERD who loves turning ideas into scalable, efficient, and robust solutions.<br><br>Let's connect and explore the endless vast possibilities of development! 🚀✨
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->

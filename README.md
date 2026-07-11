@@ -9,23 +9,21 @@
 </a>
 -->
 
-<p align="justify">A Passionate Full-Stack Web Developer, and GOlang NERD who loves turning ideas into scalable, efficient, and robust solutions.<br><br>Let's connect and explore the endless vast possibilities of development! 🚀✨
+<p align="justify">Obsessed with Go, AWS, and Self Hosting @ <a href="http://vincents.systems">vincents.systems</a> 🚀✨
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->
 
-- 🌱 I’m currently learning **Golang, and Docker**
+- 🌱 I’m currently learning **AWS, RHEL, Kubernetes**
 
-- 💬 Ask me about **ReactJS, Golang**
-
-- 🚀 Never stop creating new ideas.
+- 💬 Ask me about **Home Server, AWS**
 
 
 ### 💻 MY TECH STACK:
 
-| Languages | Frameworks | Databases | DevOps | OS | Desktop Apps |
-| --------- | ---------- | --------- | ------ | -- | ------------ |
-| <img src="https://skillicons.dev/icons?i=go,javascript,python,html,css,bash,c&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker&perline=3" /> | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,kali&perline=3"/> | <img src="https://skillicons.dev/icons?i=electron&perline=3"/> |
+| Languages | Frameworks and Libraries | Databases | DevOps | OS | Cloud & Infra |
+| --------- | ------------------------ | --------- | ------ | -- | ------------- |
+| <img src="https://skillicons.dev/icons?i=go,python,javascript,bash,c&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,django,tailwind&perline=3" /> | <img src="https://skillicons.dev/icons?i=postgresql,firebase&perline=3"/> | <img src="https://skillicons.dev/icons?i=docker,git&perline=3" /> | <img src="https://skillicons.dev/icons?i=apple,redhat,arch,linux,ubuntu&perline=3"/> | <img src="https://skillicons.dev/icons?i=aws,cloudflare,grafana&perline=3"/> |
 
 <div align="center">
 <div><h3>Lets connect 👨🏻‍💻✨ </h3></div>

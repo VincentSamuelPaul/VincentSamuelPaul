@@ -9,7 +9,7 @@
 </a>
 -->
 
-<p align="justify">Obsessed with Go, AWS, and Self Hosting @ <a href="http://server.vincents.systems">vincents.systems</a> 🚀✨
+<p align="justify">Obsessed with Go, AWS, and Self Hosting @ <a href="http://server.vincents.systems">vincents.systems</a> 🚀
 </p>
 
 <!--<img align="right" src="./Designer-4.png" width="170"> -->
